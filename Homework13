@@ -1,2 +1,3 @@
 number = input("Hello repo")
-print ("number")
+for i in number:
+    print("number")
