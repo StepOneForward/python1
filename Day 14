@@ -1,0 +1,59 @@
+
+
+#85
+
+# def triangle (a, b):
+#     return f'c = {(a**2 + b** 2) **0.5}'
+# print(triangle(int(input("enter a: ")), int(input("enter b: "))))
+
+
+
+
+#86-float object is not callable
+
+# def total_price ( km):
+#     total = 4+ (0.25*0.14(km))
+#     return total
+# km =int(input("enter number"))
+# print(total_price(km),"total")
+
+#98,99
+
+
+# def is_prime(n):
+#     for i in  range(2, int(n**0.5)+1):
+#         if i% n ==0:
+#             return true
+#         else:
+#             return False
+# print(is_prime(int(input("enter number: "))))
+
+
+
+
+
+
+# #87
+# def counter (n):
+#     if n ==1:
+#         return 10.95
+#     else:
+#         return (n-1)*2.95 +10.95
+#     print(counter(11))
+
+
+#88
+# def median(a,b,c):
+#     my_list = [a,b,c]
+#     my_list.sort()
+#     return(my_list[1])
+# print(median(int(input("enter a")), int(input("enter b")), int(input("enter c"))))
+
+
+
+
+
+
+
+
+      
