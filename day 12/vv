@@ -1,0 +1,82 @@
+
+#85 - function ov chexav ev senc el chexav 
+# from math  import sqrt
+#  a =float (input("enter a number"))
+#  b = float (input("enter a number"))
+#  c= sqrt (a**2 + b**2)
+
+#  print(c)
+
+
+
+# #86 km chhaskacav
+# def Fare(km):
+#     base_fare =4
+#     total_fare = base_fare +(0.25*0.14)
+#     return total_fare
+# km=int(input("enter number"))
+
+# print(Fare(km),"total_fare")
+
+
+
+#87
+
+ 
+
+
+# def Result (n):
+#     first_sum =  10.95
+#     total_sum =first_sum +(2.95*n)
+#     return total_sum
+# print (Result(n), "total_sum")
+
+
+
+
+#88
+# numbers = [1,2,3]
+
+# def median():
+#     size = (len(numbers) - 1) / 2
+#     return size
+# 
+
+# Print(size)
+
+
+#98
+
+# def  prime(n):
+#     for i in range(2,n):
+#         if n % i ==0:
+#             return false:
+#         n= int(input("enter a number"))
+#         if ispriame
+#         print(n, "is prime")
+#     else:
+#         print(n, "is not prime)
+# prime")
+
+
+
+def fun1(num):
+    return num + 25
+
+fun1(5)
+print("num")
+
+
+
+
+
+        
+
+
+
+
+
+    
+
+ 
+
